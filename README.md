@@ -30,7 +30,7 @@ A simple and user-friendly radio app for listening to your favorite stations.
 
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/rdonat01/basic_radio_app.git
    ```
 
 2. Navigate to the project directory:
